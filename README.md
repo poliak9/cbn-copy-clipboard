@@ -8,7 +8,7 @@
 ```html
 <cbn-copy-clipboard>This text will be copied on click.</cbn-copy-clipboard>
 <cbn-copy-clipboard value="[[valueToBeCopied]]">
-	<paper-button>Click me</papper-button>
+	<paper-button>Click me</paper-button>
 </cbn-copy-clipboard>
 ```
 See the [DEMO](https://cbn-elements.appspot.com/elements/cbn-copy-clipboard?view=demo:demo.html&active=cbn-copy-clipboard).
